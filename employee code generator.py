@@ -1,4 +1,4 @@
-first_name = 'John'
+first_name = 'Johnny'
 last_name = 'Doe'
 full_name = first_name + ' ' + last_name
 address = '123 Main Street'
